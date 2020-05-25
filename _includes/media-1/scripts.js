@@ -55,7 +55,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
                     ticks: {
                         // beginAtZero: true,
                         fontFamily: '"Work Sans",sans-serif',
-                        fontColor: '#212529'
+                        fontColor: '#212529',
+                        autoSkip: false
                     },
                     scaleLabel: {
                         display: true,
