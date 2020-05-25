@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                         // beginAtZero: true,
                         fontFamily: '"Work Sans",sans-serif',
                         fontColor: '#212529',
-                        autoSkip: false
+                        autoSkip: true,
                     },
                     scaleLabel: {
                         display: true,
