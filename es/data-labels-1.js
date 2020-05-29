@@ -265,3 +265,9 @@ window.climate_chart_1_data = [ // NO BORRAR ESTA LINEA
 416.2,
 
 ] // NO BORRAR ESTA LINEA
+
+window.co2_box_contents = {
+    year1 : "abril 2020: 416.21 ppm",
+    year2 : "abril 2019: 413.33 ppm",
+    updated: "Ultima actualización: 29 de mayo"
+};

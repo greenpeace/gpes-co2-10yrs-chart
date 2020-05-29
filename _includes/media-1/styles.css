@@ -1,3 +1,21 @@
 #infoContainer {
     margin: 1em 0 1em 0;
 }
+
+#co2_box {
+    background-color: #7ABD94;
+    color: #fff;
+    font-size: 17px;
+    max-width: 275px;
+    margin: 20px auto 20px;
+    padding: 10px;
+}
+
+#co2_box_updated {
+    font-size: 12px;
+    text-align: right;
+}
+
+#co2_box_m1, #co2_box_m2 {
+    text-align: center;
+}

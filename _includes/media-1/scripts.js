@@ -70,3 +70,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
     });
 
 });
+
+document.addEventListener("DOMContentLoaded", function (event) {
+    document.getElementById("co2_box_m1").textContent = window.co2_box_contents.year1;
+    document.getElementById("co2_box_m2").textContent = window.co2_box_contents.year2;
+    document.getElementById("co2_box_updated").textContent = window.co2_box_contents.updated;
+});
