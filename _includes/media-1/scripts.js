@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function (event) {
-    var ctx = document.getElementById("line_chart_by_year");
+    var ctx = document.getElementById("co2_chart_by_year");
     var line_chart_1 = new Chart(ctx, {
         type: 'line',
         data: {
