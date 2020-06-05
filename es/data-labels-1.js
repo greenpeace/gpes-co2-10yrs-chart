@@ -134,6 +134,7 @@ window.climate_chart_1_labels = [ // NO BORRAR ESTA LINEA
 "feb 2020",
 "mar 2020",
 "abr 2020",
+"mayo 2020",
 
 ] // NO BORRAR ESTA LINEA
 
@@ -263,11 +264,12 @@ window.climate_chart_1_data = [ // NO BORRAR ESTA LINEA
 414.115,
 414.03,
 416.2,
+417.01,
 
 ] // NO BORRAR ESTA LINEA
 
 window.co2_box_contents = {
-    year1 : "abril 2020: 416.21 ppm",
-    year2 : "abril 2019: 413.33 ppm",
-    updated: "Ultima actualización: 29 de mayo"
+    year1 : "Mayo 2020: 417,01 ppm",
+    year2 : "Mayo 2019: 414,7 ppm",
+    updated: "Ultima actualización: 5 de junio"
 };
